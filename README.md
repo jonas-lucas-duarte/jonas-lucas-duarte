@@ -8,6 +8,7 @@
 - 🇺🇸 English
 - 🖥️ Computer Network
 - 🐍 Python
+- 📄 HTML
 
 ---
 
